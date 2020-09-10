@@ -1,0 +1,56 @@
+.resultado {
+    background: white;
+}
+
+.table {
+    text-align: center;
+}
+
+.h2 {
+    text-align: center;
+}
+
+.texto {
+    text-align: center;
+}
+
+.vermelho {
+    color: red;
+}
+
+.verde {
+    color: green;
+}
+
+.jumb {
+    margin-top: 10px;
+    border-radius: 20px;
+    background: #F8F6F5;
+}
+
+body {
+    background:#282828;
+}
+
+.cont {
+    background: #242424;
+    border-radius: 10px;
+    padding: 6px;
+    margin-top: 10px;
+}
+
+.branco {
+    color: white;
+}
+
+.imga {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.h6j {
+    text-align: center;
+}
+.bord {
+    border-radius: 20px;
+}
